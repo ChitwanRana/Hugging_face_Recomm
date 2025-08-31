@@ -9,8 +9,7 @@ An interactive web app to help you find the best Hugging Face models for your AI
 - ⚡ **Fast & Cached:** Uses efficient sentence-transformers and caching for quick results.
 - 🧑‍💻 **API Access:** Programmatic endpoint for integration with other tools.
 
-## Demo
-![screenshot](screenshot.png)
+
 
 ## Getting Started
 ### 1. Clone the repository
